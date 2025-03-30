@@ -21,7 +21,7 @@ Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P**
 Currently, I'm diving deep into **cybersecurity**, sharpening my skills in **penetration testing, exploit development, and reverse engineering** while actively participating in **Capture The Flag (CTF)** competitions.  
 
 <div align="center">
-  <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="500" />
+  <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="200" />
 </div>
 
 ---
