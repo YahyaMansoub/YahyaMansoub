@@ -39,7 +39,7 @@ Math is my **first love**, and **group theory** is my playground. I leverage mat
 Academically, I focus on **AI, machine learning, and data science**, where I explore cutting-edge models, statistical learning, and data-driven insights.  
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f829b23005371.5631bbe9c822a.gif" width="500" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f829b23005371.5631bbe9c822a.gif" width="180" />
 </div>
 
 ---
