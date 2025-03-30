@@ -9,19 +9,40 @@ Here's your updated GitHub `README.md` with the new section added:
  <div align="center">
   <img height="" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966"  />
 </div>
+---
 
 ## 🚀 About Me  
 
 Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P** in Morocco. My journey in tech is fueled by my deep love for **mathematics**, particularly **group theory**, and my relentless curiosity for **cybersecurity** and **competitive programming (CP)**.  
 
+---
+
 ### 🛡️ **Cybersecurity & CTFs**  
 Currently, I'm diving deep into **cybersecurity**, sharpening my skills in **penetration testing, exploit development, and reverse engineering** while actively participating in **Capture The Flag (CTF)** competitions.  
+
+<div align="center">
+  <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="500" />
+</div>
+
+---
 
 ### ⚡ **Mathematics & Competitive Programming**  
 Math is my **first love**, and **group theory** is my playground. I leverage mathematical insights to solve complex problems in **CP competitions**, where I enjoy tackling intricate algorithms and optimization challenges.  
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a5/1b/e7/a51be7bd227e0e4b3d18de7f51a81b50.gif" width="500" />
+</div>
+
+---
+
 ### 🤖 **AI, Machine Learning & Data Science**  
 Academically, I focus on **AI, machine learning, and data science**, where I explore cutting-edge models, statistical learning, and data-driven insights.  
+
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f829b23005371.5631bbe9c822a.gif" width="500" />
+</div>
+
+---
 
 ### 💻 **Software Engineering & Tools**  
 
