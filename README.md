@@ -147,19 +147,7 @@ Academically, I focus on **AI, machine learning, and data science**, where I exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
-<h1 align="left">📧 Socials & Contact</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Byv%2FTRysZQFq384r1Z93Rzw%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 ## 🎯 My Future Goal: **System Architect**  
 My long-term ambition is to become a **System Architect**, designing scalable, high-performance, and secure systems that push the boundaries of technology.  
@@ -174,5 +162,18 @@ If you're working on something exciting in these domains, let's connect! I'm alw
 
 📩 Feel free to reach out—let’s build something amazing together!  
 
+###
+
+<h1 align="left">📧 Socials & Contact</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Byv%2FTRysZQFq384r1Z93Rzw%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 ---
 
