@@ -194,8 +194,8 @@ My long-term ambition is to become a **System Architect**, designing scalable, h
 ## 🌍 Open to Opportunities!  
 I am actively looking for:  
 - 🔹 **Open-source projects**  
-- 🔹 **Internships**  
-- 🔹 **Job positions** in **Data Science, AI, and Cybersecurity**  
+- 🔹 **Internships**  in **Data Science, AI, and Cybersecurity** 
+  
 
 If you're working on something exciting in these domains, let's connect! I'm always eager to collaborate, learn, and contribute.  
 
