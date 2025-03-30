@@ -16,33 +16,49 @@ Here's your updated GitHub `README.md` with the new section added:
 Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P** in Morocco. My journey in tech is fueled by my deep love for **mathematics**, particularly **group theory**, and my relentless curiosity for **cybersecurity** and **competitive programming (CP)**.  
 
 ---
-
 ### 🛡️ **Cybersecurity & CTFs**  
-Currently, I'm diving deep into **cybersecurity**, sharpening my skills in **penetration testing, exploit development, and reverse engineering** while actively participating in **Capture The Flag (CTF)** competitions.  
 
-<div align="center">
-  <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="200" />
-</div>
+<table>
+  <tr>
+    <td>
+      Currently, I'm diving deep into **cybersecurity**, sharpening my skills in **penetration testing, exploit development, and reverse engineering** while actively participating in **Capture The Flag (CTF)** competitions.
+    </td>
+    <td>
+      <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚡ **Mathematics & Competitive Programming**  
-Math is my **first love**, and **group theory** is my playground. I leverage mathematical insights to solve complex problems in **CP competitions**, where I enjoy tackling intricate algorithms and optimization challenges.  
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a5/1b/e7/a51be7bd227e0e4b3d18de7f51a81b50.gif" width="500" />
-</div>
+<table>
+  <tr>
+    <td>
+      Math is my **first love**, and **group theory** is my playground. I leverage mathematical insights to solve complex problems in **CP competitions**, where I enjoy tackling intricate algorithms and optimization challenges.
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/a5/1b/e7/a51be7bd227e0e4b3d18de7f51a81b50.gif" width="500" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🤖 **AI, Machine Learning & Data Science**  
-Academically, I focus on **AI, machine learning, and data science**, where I explore cutting-edge models, statistical learning, and data-driven insights.  
 
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f829b23005371.5631bbe9c822a.gif" width="180" />
-</div>
+<table>
+  <tr>
+    <td>
+      Academically, I focus on **AI, machine learning, and data science**, where I explore cutting-edge models, statistical learning, and data-driven insights.
+    </td>
+    <td>
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f829b23005371.5631bbe9c822a.gif" width="180" />
+    </td>
+  </tr>
+</table>
 
----
 
 ### 💻 **Software Engineering & Tools**  
 
