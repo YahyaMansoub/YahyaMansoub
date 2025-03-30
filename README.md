@@ -1,6 +1,3 @@
-Here's your updated GitHub `README.md` with the new section added:  
-
----
 
 # 👋 Hey there! I'm Yahya Mansoub  
 
