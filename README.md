@@ -59,8 +59,9 @@ Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P**
   </tr>
 </table>
 
+###
 
-📊 Stats</h1>
+<h1 align="left">📊 Stats</h1>
 
 ###
 
