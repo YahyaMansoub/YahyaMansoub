@@ -36,7 +36,7 @@ Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P**
 <table>
   <tr>
     <td>
-      Math is my **first love**, and **group theory** is my playground. I leverage mathematical insights to solve complex problems in **CP competitions**, where I enjoy tackling intricate algorithms and optimization challenges.
+      Math is my <em>first love</em>, and <strong><em>group theory</em></strong> is my playground. I leverage mathematical insights to solve complex problems in <strong>CP competitions</strong>, where I enjoy tackling intricate algorithms and optimization challenges.
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/a5/1b/e7/a51be7bd227e0e4b3d18de7f51a81b50.gif" width="500" />
@@ -51,7 +51,7 @@ Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P**
 <table>
   <tr>
     <td>
-      Academically, I focus on **AI, machine learning, and data science**, where I explore cutting-edge models, statistical learning, and data-driven insights.
+      Academically, I focus on <strong><em>AI, machine learning, and data science</em></strong>, where I explore cutting-edge models, statistical learning, and data-driven insights.
     </td>
     <td>
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f829b23005371.5631bbe9c822a.gif" width="180" />
