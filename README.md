@@ -186,7 +186,14 @@ Hi! I'm **Yahya Mansoub**, a passionate **Computer Science student** at **UM6P**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" height="40" alt="Metasploit logo" />
+  <img width="12" />
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40" alt="Hydra logo" />
+  <img width="12" />
+  <img src="https://assets.enterprisestorageforum.com/uploads/2023/04/nmap-vulnerability-scan.png" height="40" alt="Nmap logo" />
 </div>
+
 
 ###
 
