@@ -1,11 +1,22 @@
 
 
 
-
-
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="220">
+        <img src="./assets/header.gif" width="200" alt="header gif"/>
+      </td>
+      <td align="left">
+        <h2>Yahya Mansoub</h2>
+        <p>
+          Computer Science student @ <b>UM6P – College of Computing</b><br/>
+          CTF player • Math enthusiast
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
