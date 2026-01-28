@@ -17,7 +17,7 @@
       </p>
     </td>
     <td align="center">
-      <img src="./assets/profile.jpeg" width="160" alt="profile"/>
+      <img src="./assets/profile.jpg" width="160" alt="profile"/>
     </td>
   </tr>
 </table>
