@@ -26,7 +26,24 @@
 </table>
 
 
-<h2 align="center">Technology</h2>
+---
+
+### About
+
+I’m a second-year engineering cycle student with a strong inclination toward **mathematical structure and abstraction**.  
+My main playground is math <—> especially **Group Theory, Galois Theory, and Topology**, where symmetry, invariants, and structure quietly explain everything interesting.
+
+On the practical side, I’m an active **CTF player**, with a deep focus on **Cryptography**, **Forensics**, and **Incident Response** —> breaking things to understand why they work (and fail).
+
+My research interests sit at the intersection of **AI × Cybersecurity**, where learning systems meet adversarial environments.  
+Alongside that, I practice **System Architecture** (Software Engineering, DevOps) and explore **Control Theory** and **Computational Theory** from a more theoretical lens.
+
+I enjoy working where **theory meets implementation**, and where rigor actually matters.
+
+
+---
+
+<h2 align="center">Technologies</h2>
 
 ###
 
