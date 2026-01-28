@@ -1,25 +1,23 @@
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
     <td colspan="2">
       <img src="./assets/header.gif"
            width="100%"
-           height="360"
-           style="object-fit: cover;"
+           height="420"
            alt="header"/>
     </td>
   </tr>
 
   <tr>
-    <td width="75%" valign="middle" style="padding: 24px;">
-      <h1 style="margin-bottom: 8px;">Yahya Mansoub</h1>
-      <p style="margin-top: 0;">
+    <td style="padding: 24px;">
+      <h1>Yahya Mansoub</h1>
+      <p>
         Computer Science student @ UM6P — College of Computing<br/>
         CTF player · Math enthusiast
       </p>
     </td>
-
-    <td width="25%" align="center" valign="middle">
-      <img src="./assets/profile.jpeg" width="180" alt="profile"/>
+    <td align="center">
+      <img src="./assets/profile.jpeg" width="160" alt="profile"/>
     </td>
   </tr>
 </table>
