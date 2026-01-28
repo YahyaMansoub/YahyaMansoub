@@ -17,7 +17,10 @@
       </p>
     </td>
     <td align="center">
-      <img src="./assets/profile.jpg" width="160" alt="profile"/>
+     <img src="./assets/profile.jpg"
+     width="160"
+     style="clip-path: circle(50% at 50% 50%);"
+     alt="profile"/>
     </td>
   </tr>
 </table>
