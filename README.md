@@ -1,41 +1,22 @@
-<div style="position: relative; width: 100%; height: 280px; overflow: hidden;">
-  <!-- Big header GIF -->
-  <img src="./assets/header.gif"
-       style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%);"
-       alt="header"/>
-
-  <!-- Overlay content -->
-  <div style="
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 40px;
-    background: linear-gradient(
-      to right,
-      rgba(0,0,0,0.55) 0%,
-      rgba(0,0,0,0.35) 40%,
-      rgba(0,0,0,0.15) 60%,
-      rgba(0,0,0,0) 100%
-    );
-  ">
-    <!-- Name / intro -->
-    <div>
-      <h1 style="margin: 0;">Yahya Mansoub</h1>
-      <p style="margin: 8px 0 0;">
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <img src="./assets/header.gif" width="100%" height="260" alt="header"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 20px;">
+      <h1>Yahya Mansoub</h1>
+      <p>
         Computer Science student @ UM6P — College of Computing<br/>
         CTF player · Math enthusiast
       </p>
-    </div>
-
-    <!-- Profile picture -->
-    <img src="./assets/profile.jpg"
-         width="140"
-         style="border-radius: 50%; border: 3px solid white;"
-         alt="profile"/>
-  </div>
-</div>
+    </td>
+    <td align="right" style="padding: 20px;">
+      <img src="./assets/profile.jpg" width="140" alt="profile"/>
+    </td>
+  </tr>
+</table>
 
 
 
