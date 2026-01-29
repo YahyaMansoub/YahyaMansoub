@@ -30,14 +30,25 @@
 
 ### About
 
-Second-year engineering cycle student with a strong interest in **mathematical structure** — mainly **Group Theory, Galois Theory, and Topology**.
+Second-year engineering cycle student with a strong interest in **AI&CyberSecurity&MATH** and SLEEP!!!
 
-Active **CTF player**, focused on **Cryptography**, **Forensics**, and **Incident Response**  
-<img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="40"/>
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <b>Active CTF player</b>, focused on <b>Cryptography</b>, <b>Forensics</b>, and <b>Incident Response</b>.<br/><br/>
 
-My work and research sit at the intersection of **AI × Cybersecurity**, with additional practice in  
-**System Architecture** (Software Engineering, DevOps) and theoretical areas like  
-**Control Theory** and **Computational Theory**.
+      My work and research sit at the intersection of <b>AI × Cybersecurity</b>, with additional practice in  
+      <b>System Architecture</b> (Software Engineering, DevOps) and theoretical areas like  
+      <b>Control Theory</b> and <b>Computational Theory</b>.
+    </td>
+
+    <td width="120" align="right">
+      <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif"
+           width="100"
+           alt="CTF"/>
+    </td>
+  </tr>
+</table>
 
 
 
