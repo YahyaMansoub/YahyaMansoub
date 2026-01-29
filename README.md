@@ -30,27 +30,20 @@
 
 ### About
 
-Second-year engineering cycle student with a strong interest in **AI&CyberSecurity&MATH** and SLEEP!!!
-
+Second-year engineering cycle student into **AI × Cybersecurity** and **Math**.
 
 <table width="100%">
   <tr>
     <td valign="middle">
-      <b>Active CTF player</b>, focused on <b>Cryptography</b>, <b>Forensics</b>, and <b>Incident Response</b>.<br/><br/>
-
-      My work and research sit at the intersection of <b>AI × Cybersecurity</b>, with additional practice in  
-      <b>System Architecture</b> (Software Engineering, DevOps) and theoretical areas like  
-      <b>Control Theory</b> and <b>Computational Theory</b>.
+      <b>CTF player</b> — <b>Crypto</b>, <b>Forensics</b>, <b>Incident Response</b>.<br/>
+      Research: <b>AI × Cybersecurity</b>.<br/>
+      Practice: <b>System Architecture</b> (SE, DevOps) + <b>Control</b> & <b>Computational Theory</b>.
     </td>
-
-    <td width="140" align="right">
-      <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif"
-           width="110"
-           alt="CTF"/>
+    <td width="180" align="right" valign="middle">
+      <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif" width="140" alt="CTF"/>
     </td>
   </tr>
 </table>
-
 
 
 ---
