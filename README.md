@@ -32,6 +32,7 @@
 
 Second-year engineering cycle student with a strong interest in **AI&CyberSecurity&MATH** and SLEEP!!!
 
+
 <table width="100%">
   <tr>
     <td valign="middle">
@@ -42,9 +43,9 @@ Second-year engineering cycle student with a strong interest in **AI&CyberSecuri
       <b>Control Theory</b> and <b>Computational Theory</b>.
     </td>
 
-    <td width="120" align="right">
+    <td width="140" align="right">
       <img src="https://media.tenor.com/a03Li7Nyr8UAAAAj/ctf.gif"
-           width="100"
+           width="110"
            alt="CTF"/>
     </td>
   </tr>
