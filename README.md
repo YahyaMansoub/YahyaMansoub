@@ -12,7 +12,7 @@
     <td style="padding: 24px;">
       <h1>Yahya Mansoub</h1>
       <p>
-        Computer Science student @ UM6P — College of Computing<br/>
+        Computer Science student @ UM6P . College of Computing<br/>
         CTF player · Math enthusiast
       </p>
     </td>
@@ -30,7 +30,7 @@
 
 ### About
 
-Second-year engineering cycle student into **AI × Cybersecurity** and **Math**.
+Second-year Engineering Cycle Student with special interest for **AI × Cybersecurity** and **Math**.
 
 <table width="100%">
   <tr>
