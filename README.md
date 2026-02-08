@@ -158,88 +158,72 @@ Second-year Engineering Cycle Student with special interest for **AI × Cybersec
 <div align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
 </div>
----
 
+###
 
 <!-- ========= GitHub Stats (START) ========= -->
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br />
 
-  <p align="center">
-    <!-- Overall stats (dark/light) -->
-    <a href="https://github.com/YahyaMansoub">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=YahyaMansoub&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight#gh-dark-mode-only"
-        alt="GitHub stats (dark)"
-        height="165"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=YahyaMansoub&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only"
-        alt="GitHub stats (light)"
-        height="165"
-      />
-    </a>
-  </p>
+## 📊 GitHub Stats
 
-  <p align="center">
-    <!-- Streak (dark/light) -->
-    <a href="https://github.com/YahyaMansoub">
-      <img
-        src="https://streak-stats.demolab.com/?user=YahyaMansoub&hide_border=true&theme=tokyonight#gh-dark-mode-only"
-        alt="GitHub streak (dark)"
-        height="165"
-      />
-      <img
-        src="https://streak-stats.demolab.com/?user=YahyaMansoub&hide_border=true&theme=default#gh-light-mode-only"
-        alt="GitHub streak (light)"
-        height="165"
-      />
-    </a>
-  </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YahyaMansoub&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=tokyonight#gh-dark-mode-only"
+    alt="GitHub stats (dark)"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YahyaMansoub&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=default#gh-light-mode-only"
+    alt="GitHub stats (light)"
+    height="165"
+  />
+</p>
 
-  <p align="center">
-    <!-- Top languages (dark/light) -->
-    <a href="https://github.com/YahyaMansoub">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaMansoub&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only"
-        alt="Top languages (dark)"
-        height="165"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaMansoub&layout=compact&hide_border=true&theme=default#gh-light-mode-only"
-        alt="Top languages (light)"
-        height="165"
-      />
-    </a>
-  </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=YahyaMansoub&hide_border=true&theme=tokyonight#gh-dark-mode-only"
+    alt="GitHub streak (dark)"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=YahyaMansoub&hide_border=true&theme=default#gh-light-mode-only"
+    alt="GitHub streak (light)"
+    height="165"
+  />
+</p>
 
-  <p align="center">
-    <!-- Activity graph -->
-    <a href="https://github.com/YahyaMansoub">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaMansoub&hide_border=true&theme=tokyo-night"
-        alt="Activity graph"
-      />
-    </a>
-  </p>
+<!-- Languages (includes percentages in the card) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaMansoub&layout=compact&langs_count=10&hide_border=true&hide_progress=false&theme=tokyonight#gh-dark-mode-only"
+    alt="Top languages with percentages (dark)"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaMansoub&layout=compact&langs_count=10&hide_border=true&hide_progress=false&theme=default#gh-light-mode-only"
+    alt="Top languages with percentages (light)"
+    height="165"
+  />
+</p>
 
-  <p align="center">
-    <!-- Trophies -->
-    <a href="https://github.com/YahyaMansoub">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=YahyaMansoub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-        alt="Trophies"
-      />
-    </a>
-  </p>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaMansoub&hide_border=true&theme=tokyo-night"
+    alt="Activity graph"
+  />
+</p>
 
-  <p align="center">
-    <!-- Profile views -->
-    <img
-      src="https://komarev.com/ghpvc/?username=YahyaMansoub&style=for-the-badge&label=Profile%20views"
-      alt="Profile views"
-    />
-  </p>
-</details>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YahyaMansoub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=YahyaMansoub&style=for-the-badge&label=Profile%20views"
+    alt="Profile views"
+  />
+</p>
+
 <!-- ========= GitHub Stats (END) ========= -->
